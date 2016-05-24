@@ -1,0 +1,28 @@
+h1 {
+  color:red
+}
+
+p {
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+body {
+  color: green;
+}
+
+ul {
+  font-weight: 600;
+  color: inherit;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F37735;
+  text-decoration: line-through;
+}
